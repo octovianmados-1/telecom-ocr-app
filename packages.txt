@@ -1,0 +1,6 @@
+tesseract-ocr
+tesseract-ocr-ind
+p7zip-full
+unrar-free
+ffmpeg
+libgl1
